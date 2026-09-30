@@ -1,2 +1,1 @@
-# 2026-10-01-departures-airport
-CSV file, airline logos and Python script for the 1st October article.
+Pour télécharger les fichiers (le dossier complet), cliquez sur Download dans l'onglet Releases sur la droite.
