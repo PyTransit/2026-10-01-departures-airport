@@ -1,0 +1,70 @@
+{'departure_time': '09:55', 'company': 'UPS', 'destination': 'Louisville', 'num_flight': '5X 5079'}
+{'departure_time': '19:57', 'company': 'United Airlines', 'destination': 'Saint Louis', 'num_flight': 'UA 2040'}
+{'departure_time': '19:57', 'company': 'Lufthansa', 'destination': 'Saint Louis', 'num_flight': 'LH 7662'}
+{'departure_time': '19:57', 'company': 'Austrian', 'destination': 'Saint Louis', 'num_flight': 'OS 7749'}
+{'departure_time': '20:59', 'company': 'United Airlines', 'destination': 'Wilmington', 'num_flight': 'UA 4511'}
+{'departure_time': '22:30', 'company': 'United Airlines', 'destination': 'Melbourne', 'num_flight': 'UA 3899'}
+{'departure_time': '23:00', 'company': 'French Bee', 'destination': 'Paris', 'num_flight': 'B2F 721'}
+{'departure_time': '23:00', 'company': 'Air Caraibes', 'destination': 'Paris', 'num_flight': 'TX 6721'}
+{'departure_time': '23:25', 'company': 'United Airlines', 'destination': 'Dublin', 'num_flight': 'UA 317'}
+{'departure_time': '23:25', 'company': 'Air Canada', 'destination': 'Dublin', 'num_flight': 'AC 3187'}
+{'departure_time': '23:25', 'company': 'Lufthansa', 'destination': 'Dublin', 'num_flight': 'LH 7444'}
+{'departure_time': '23:50', 'company': 'El Al', 'destination': 'Tel Aviv-Yafo', 'num_flight': 'LY 26'}
+{'departure_time': '23:50', 'company': 'Delta Air Lines', 'destination': 'Tel Aviv-Yafo', 'num_flight': 'DL 7442'}
+{'departure_time': '23:55', 'company': 'Iberia', 'destination': 'Madrid', 'num_flight': 'IB 328'}
+{'departure_time': '23:55', 'company': 'American Airlines', 'destination': 'Madrid', 'num_flight': 'AA 8852'}
+{'departure_time': '23:55', 'company': 'Finnair', 'destination': 'Madrid', 'num_flight': 'AY 5374'}
+{'departure_time': '23:55', 'company': 'British Airways', 'destination': 'Madrid', 'num_flight': 'BA 4247'}
+{'departure_time': '23:55', 'company': 'Aer Lingus', 'destination': 'Madrid', 'num_flight': 'EI 5888'}
+{'departure_time': '23:55', 'company': 'Emirates', 'destination': 'Athens', 'num_flight': 'EK 210'}
+{'departure_time': '23:55', 'company': 'Aegean Airlines', 'destination': 'Athens', 'num_flight': 'A3 3416'}
+{'departure_time': '23:59', 'company': 'JetBlue', 'destination': 'Santiago', 'num_flight': 'B6 193'}
+{'departure_time': '00:25', 'company': 'Turkish Airlines', 'destination': 'Istanbul', 'num_flight': 'TK 30'}
+{'departure_time': '00:25', 'company': 'Thai Airways International', 'destination': 'Istanbul', 'num_flight': 'TG 9175'}
+{'departure_time': '00:59', 'company': 'Arajet', 'destination': 'Santo Domingo', 'num_flight': 'DWI 2363'}
+{'departure_time': '01:00', 'company': 'Air Premia', 'destination': 'Seoul', 'num_flight': 'APZ 132'}
+{'departure_time': '01:30', 'company': 'United Airlines', 'destination': 'Dulles', 'num_flight': 'UA 3929'}
+{'departure_time': '05:00', 'company': 'American Airlines', 'destination': 'Charlotte', 'num_flight': 'AA 1113'}
+{'departure_time': '05:23', 'company': 'American Airlines', 'destination': 'Chicago', 'num_flight': 'AA 3185'}
+{'departure_time': '05:30', 'company': 'American Airlines', 'destination': 'Miami', 'num_flight': 'AA 1196'}
+{'departure_time': '05:55', 'company': 'Frontier Airlines', 'destination': 'Orlando', 'num_flight': 'F9 1659'}
+{'departure_time': '05:55', 'company': 'Volaris', 'destination': 'Orlando', 'num_flight': 'Y4 2211'}
+{'departure_time': '06:00', 'company': 'United Airlines', 'destination': 'Chicago', 'num_flight': 'UA 530'}
+{'departure_time': '06:00', 'company': 'Air Canada', 'destination': 'Chicago', 'num_flight': 'AC 4458'}
+{'departure_time': '06:00', 'company': 'Air New Zealand', 'destination': 'Chicago', 'num_flight': 'NZ 2348'}
+{'departure_time': '06:00', 'company': 'TAP Air Portugal', 'destination': 'Chicago', 'num_flight': 'TP 8478'}
+{'departure_time': '06:00', 'company': 'American Airlines', 'destination': 'Charlotte', 'num_flight': 'AA 2505'}
+{'departure_time': '06:00', 'company': 'United Airlines', 'destination': 'San Francisco', 'num_flight': 'UA 2115'}
+{'departure_time': '06:00', 'company': 'Air New Zealand', 'destination': 'San Francisco', 'num_flight': 'NZ 9121'}
+{'departure_time': '06:00', 'company': 'TAP Air Portugal', 'destination': 'San Francisco', 'num_flight': 'TP 8490'}
+{'departure_time': '06:00', 'company': 'Virgin Australia', 'destination': 'San Francisco', 'num_flight': 'VA 8516'}
+{'departure_time': '06:00', 'company': 'United Airlines', 'destination': 'Dulles', 'num_flight': 'UA 1366'}
+{'departure_time': '06:00', 'company': 'Ethiopian Airlines', 'destination': 'Dulles', 'num_flight': 'ET 1387'}
+{'departure_time': '06:00', 'company': 'TAP Air Portugal', 'destination': 'Dulles', 'num_flight': 'TP 8498'}
+{'departure_time': '06:00', 'company': 'Delta Air Lines', 'destination': 'Detroit', 'num_flight': 'DL 2596'}
+{'departure_time': '06:00', 'company': 'Aeromexico', 'destination': 'Detroit', 'num_flight': 'AM 3681'}
+{'departure_time': '06:00', 'company': 'Virgin Atlantic', 'destination': 'Detroit', 'num_flight': 'VS 2876'}
+{'departure_time': '06:00', 'company': 'WestJet', 'destination': 'Detroit', 'num_flight': 'WS 7495'}
+{'departure_time': '06:00', 'company': 'United Airlines', 'destination': 'Atlanta', 'num_flight': 'UA 1012'}
+{'departure_time': '06:00', 'company': 'Air Canada', 'destination': 'Atlanta', 'num_flight': 'AC 3051'}
+{'departure_time': '06:00', 'company': 'United Airlines', 'destination': 'Houston', 'num_flight': 'UA 492'}
+{'departure_time': '06:00', 'company': 'Air New Zealand', 'destination': 'Houston', 'num_flight': 'NZ 6596'}
+{'departure_time': '06:00', 'company': 'TAP Air Portugal', 'destination': 'Houston', 'num_flight': 'TP 8530'}
+{'departure_time': '06:00', 'company': 'JetBlue', 'destination': 'Orlando', 'num_flight': 'B6 927'}
+{'departure_time': '06:00', 'company': 'Icelandair', 'destination': 'Orlando', 'num_flight': 'FI 7963'}
+{'departure_time': '06:00', 'company': 'TAP Air Portugal', 'destination': 'Orlando', 'num_flight': 'TP 4333'}
+{'departure_time': '06:00', 'company': 'Delta Air Lines', 'destination': 'Atlanta', 'num_flight': 'DL 2353'}
+{'departure_time': '06:00', 'company': 'Aeromexico', 'destination': 'Atlanta', 'num_flight': 'AM 3679'}
+{'departure_time': '06:00', 'company': 'Korean Air', 'destination': 'Atlanta', 'num_flight': 'KE 3974'}
+{'departure_time': '06:00', 'company': 'LATAM Airlines', 'destination': 'Atlanta', 'num_flight': 'LA 7908'}
+{'departure_time': '06:00', 'company': 'Virgin Atlantic', 'destination': 'Atlanta', 'num_flight': 'VS 4455'}
+{'departure_time': '06:00', 'company': 'United Airlines', 'destination': 'Jacksonville', 'num_flight': 'UA 1207'}
+{'departure_time': '06:00', 'company': 'Air Canada', 'destination': 'Jacksonville', 'num_flight': 'AC 4735'}
+{'departure_time': '06:00', 'company': 'United Airlines', 'destination': 'Denver', 'num_flight': 'UA 670'}
+{'departure_time': '06:00', 'company': 'TAP Air Portugal', 'destination': 'Denver', 'num_flight': 'TP 8474'}
+{'departure_time': '06:00', 'company': 'United Airlines', 'destination': 'West Palm Beach', 'num_flight': 'UA 1344'}
+{'departure_time': '06:00', 'company': 'Air Canada', 'destination': 'West Palm Beach', 'num_flight': 'AC 5008'}
+{'departure_time': '06:00', 'company': 'United Airlines', 'destination': 'Los Angeles', 'num_flight': 'UA 2434'}
+{'departure_time': '06:00', 'company': 'Air China', 'destination': 'Los Angeles', 'num_flight': 'CA 7359'}
+{'departure_time': '06:00', 'company': 'Air New Zealand', 'destination': 'Los Angeles', 'num_flight': 'NZ 9535'}
+{'departure_time': '06:00', 'company': 'Virgin Australia', 'destination': 'Los Angeles', 'num_flight': 'VA 8139'}
